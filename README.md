@@ -51,7 +51,7 @@ The relay switches the fan ON and OFF based on the selected speed level.
 [Click Here for Other Images](Images)
 ## Arduino Code
 
-![Code here](Code/LCD_Based_Smart_Fan_Regulation_System.ino)
+[Code here](Code/LCD_Based_Smart_Fan_Regulation_System.ino)
 
 ##Demo Video
 [Click this link to get the Demo Video for the project](Videos/LCD_Based_Smart_Fan_Regulation_System_video.mp4)
